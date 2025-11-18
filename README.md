@@ -1,4 +1,4 @@
-### EX NNO: 7 Implementation of Link Analysis using HITS Algorithm
+### EX NO: 7 Implementation of Link Analysis using HITS Algorithm
 ### DATE: 18-11-2025
 ### NAME: SARISH VARSHAN V
 ### REG NO: 212223230196
